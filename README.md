@@ -1,6 +1,6 @@
 
 ## Overview
-This project is focused on developing a deep learning model for detecting diabetic retinopathy using various neural network architectures and techniques.
+This project is focused on developing a deep-learning model using the DeepDRiD dataset to detect diabetic retinopathy using various neural network architectures and techniques.
 
 ## File Descriptions
 
